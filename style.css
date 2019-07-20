@@ -1,0 +1,9 @@
+.signup_form{
+    display: inline-grid;
+}
+
+.home_head  {
+    background: cadetblue;
+    width: 100px;
+    height: auto;
+}
